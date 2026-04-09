@@ -22,7 +22,7 @@
 1. 克隆到你的 OpenClaw 技能目录：
 ```bash
 cd ~/.openclaw/workspace/skills
-git clone https://github.com/你的用户名/security_guard.git
+git clone https://github.com/lin82-2023/security-guard-openclaw.git security_guard
 ```
 
 2. 重启 OpenClaw / QClaw，技能会自动加载
